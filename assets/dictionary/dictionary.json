@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "dz": "fdsfszsafasf",
+      "en": "fadsfadsf",
+      "example": "asdfasdf",
+      "exampleEn": "fasdfasdfasdfasdaf",
+      "audio": ""
+    },
+    {
+      "dz": "fasfdsfas",
+      "en": "fasdfasdf",
+      "example": "fasdfasd",
+      "exampleEn": "ffaadfasfsf",
+      "audio": "assets/audio/dictionary_words/fasfdsfas.wav"
+    }
+  ]
+}
