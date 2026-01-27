@@ -1,18 +1,25 @@
 {
   "entries": [
     {
-      "dz": "fdsfszsafasf",
-      "en": "fadsfadsf",
-      "example": "asdfasdf",
-      "exampleEn": "fasdfasdfasdfasdaf",
+      "dz": "adsvdsvsdvasd",
+      "en": "asdvsdvsdvds",
+      "example": "vdasvsvsdvdsvds",
+      "exampleEn": "vsdavasdvasdvasv",
+      "audio": "assets/audio/dictionary_words/adsvdsvsdvasd.wav"
+    },
+    {
+      "dz": "fbdssdvdsvasvasd",
+      "en": "advsvadsvasdvasd",
+      "example": "adsvvasdvasdv",
+      "exampleEn": "vsadvasdvsdv",
       "audio": ""
     },
     {
-      "dz": "fasfdsfas",
-      "en": "fasdfasdf",
-      "example": "fasdfasd",
-      "exampleEn": "ffaadfasfsf",
-      "audio": "assets/audio/dictionary_words/fasfdsfas.wav"
+      "dz": "vdasvasdvasdv",
+      "en": "dasvsdvasvdas",
+      "example": "vasdvasdvsvs",
+      "exampleEn": "asdvasvasasv",
+      "audio": "assets/audio/dictionary_words/vdasvasdvasdv.wav"
     }
   ]
 }
