@@ -1,0 +1,47 @@
+{
+  "id": "sadvvdsvsvd",
+  "title": "sad<vvdsvsvd",
+  "steps": [
+    {
+      "type": "text",
+      "text": "sdvzsdvzsdvdzsvzsv",
+      "header": "dvzsdvzdsvzdxvz"
+    },
+    {
+      "type": "quiz-single",
+      "question": "vzdsvzsdvzsvzsv",
+      "options": [
+        {
+          "label": "zsdvzvzs",
+          "correct": true
+        },
+        {
+          "label": "vzdsvzsdvzsdvsv",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "src": "culture-sadvvdsvsvd-step-2.png"
+    },
+    {
+      "type": "quiz-multi",
+      "question": "vdzvdv",
+      "options": [
+        {
+          "label": "dvzvzxdvdv",
+          "correct": true
+        },
+        {
+          "label": "zsdvdzvzsv",
+          "correct": true
+        },
+        {
+          "label": "vzdvzvzdv",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
