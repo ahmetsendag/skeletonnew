@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": "vdsavadsv",
+      "title": "vdsavadsv",
+      "description": "asdvdasvasv",
+      "conversations": [
+        {
+          "id": "abdfbdsbsdfbfsd",
+          "title": "abdfbdsbsdfbfsd",
+          "exchanges": [
+            {
+              "speaker": "A",
+              "english": "vasvsdv",
+              "dzardzongke": "vasdavdasvsdvasdv",
+              "audio": "assets/audio/conversations/abdfbdsbsdfbfsd/abdfbdsbsdfbfsd_1_A.wav"
+            },
+            {
+              "speaker": "A",
+              "english": "bsfdbsdfbsdf",
+              "dzardzongke": "bsdfbsdfbsdfbdf",
+              "audio": "assets/audio/conversations/abdfbdsbsdfbfsd/abdfbdsbsdfbfsd_2_B.wav"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
