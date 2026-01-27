@@ -1,0 +1,47 @@
+{
+  "id": "asdvasvsvasdv",
+  "title": "asdvasvsvasdv",
+  "steps": [
+    {
+      "type": "text",
+      "text": "basdbagbrebeb",
+      "header": "sadvbdsbasdb"
+    },
+    {
+      "type": "quiz-single",
+      "question": "agsdgabhabreb",
+      "options": [
+        {
+          "label": "barhhrehgerabea",
+          "correct": true
+        },
+        {
+          "label": "braebaebaebabe",
+          "correct": false
+        },
+        {
+          "label": "barbbdfbad",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "type": "quiz-multi",
+      "question": "bdfsbsdfbdsfbdsbdfbdsfbds",
+      "options": [
+        {
+          "label": "fbds sdf s  sdf dsfv",
+          "correct": true
+        },
+        {
+          "label": "tdnsdfbsdbdfbsdfbdsbf",
+          "correct": true
+        },
+        {
+          "label": "dfsbsdfbsdfbsdfbsdfbsdbb",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

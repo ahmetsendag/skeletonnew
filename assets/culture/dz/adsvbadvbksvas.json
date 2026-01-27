@@ -1,0 +1,25 @@
+{
+  "id": "adsvbadvbksvas",
+  "title": "adsvbadvbksvas",
+  "steps": [
+    {
+      "type": "text",
+      "text": "asgasdgdsagrgs",
+      "header": "vasdbvgasdg"
+    },
+    {
+      "type": "quiz-single",
+      "question": "asgsdgsdg",
+      "options": [
+        {
+          "label": "gasdasgasdgasdgsdag",
+          "correct": true
+        },
+        {
+          "label": "gasdgasdgasgdsg",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
