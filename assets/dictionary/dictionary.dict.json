@@ -5345,6 +5345,12 @@
       "en": "adffadasfadsf",
       "example": "dafsdasfasdf",
       "exampleEn": "asfddfasfasdfasdfsd"
+    },
+    {
+      "dz": "deneme",
+      "en": "deneme",
+      "example": "deneme",
+      "exampleEn": "deneme"
     }
   ]
 }
